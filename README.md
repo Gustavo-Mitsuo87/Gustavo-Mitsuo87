@@ -59,8 +59,6 @@ Estou expandindo meus conhecimentos com foco em arquiteturas back-end estruturad
 
 ## 📊 Estatísticas do GitHub
 
-Se as imagens abaixo aparecerem como links quebrados, lembre-se de que o servidor público pode sofrer quedas temporárias de tráfego.
-
 <p id="stats" align="center">
   <img src="https://vercel.app" alt="Estatísticas de Gustavo" />
   <br><br>
