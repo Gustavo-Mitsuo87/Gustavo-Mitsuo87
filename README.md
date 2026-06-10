@@ -1,8 +1,13 @@
 # Hi guys, it's me Gustavo 👋 🌱
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/gustavo-mitsuo/)
-[![Instagram](https://shields.io)](https://www.instagram.com/mitsuo.gfs/)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn">
+</a>
+<a href="https://instagram.com" target="_blank">
+  <img src="https://shields.io" alt="Instagram">
+</a>
 
+<br><br>
 Olá! Meu nome é Gustavo. Sou estudante de tecnologia, focado em evoluir minhas habilidades em desenvolvimento de software e construir soluções inteligentes.
 
 - 🧑‍💻 **Pronome:** Ele/Dele
@@ -14,13 +19,24 @@ Olá! Meu nome é Gustavo. Sou estudante de tecnologia, focado em evoluir minhas
 ## 🛠️ Skills Técnicas
 
 ### 💻 Programming Languages
-<img src="https://githubusercontent.com" alt="java" width="40" height="40"/> <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+<p id="languages">
+  <img src="https://jsdelivr.net" alt="java" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
+</p>
 
 ### 🗄️ Data Base & Cloud
-<img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/> <img src="https://githubusercontent.com" alt="aws" width="40" height="40"/>
+<p id="database">
+  <img src="https://jsdelivr.net" alt="mysql" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="aws" width="40" height="40"/>
+</p>
 
 ### 🔧 Ferramentas
-<img src="https://githubusercontent.com" alt="git" width="40" height="40"/> <img src="https://githubusercontent.com" alt="github" width="40" height="40"/>
+<p id="tools">
+  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="github" width="40" height="40"/>
+</p>
 
 ---
 
@@ -43,6 +59,10 @@ Estou expandindo meus conhecimentos com foco em arquiteturas back-end estruturad
 
 ## 📊 Estatísticas do GitHub
 
-![Minhas Estatísticas](https://vercel.app)
-![Linguagens Mais Usadas](https://vercel.app)
+Se as imagens abaixo aparecerem como links quebrados, lembre-se de que o servidor público pode sofrer quedas temporárias de tráfego.
 
+<p id="stats" align="center">
+  <img src="https://vercel.app" alt="Estatísticas de Gustavo" />
+  <br><br>
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" />
+</p>
