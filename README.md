@@ -49,8 +49,3 @@ Estou expandindo meus conhecimentos com foco em arquiteturas back-end estruturad
 - 🏫 **Etec Guarulhos**  
   Curso Técnico em **Desenvolvimento de Sistemas**  
   📅 *Período: 2025 - 2027*
-
-## 📊 Estatísticas do GitHub
-<p id="stats" align="center">
-  <img src="https://camo.githubusercontent.com/bb22e50a264806392ed29e184e1c33802b2953b8e0c87c0c15590469d4e7fc39/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d44726579303132267468656d653d6f757472756e2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374" alt="Linguagens Mais Usadas" />
-</p>
