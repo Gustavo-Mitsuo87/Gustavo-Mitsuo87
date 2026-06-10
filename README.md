@@ -16,7 +16,7 @@ Olá! Meu nome é Gustavo. Sou estudante de tecnologia, focado em evoluir minhas
 ### 💻 Programming Languages
 <p id="languages">
   <img src="https://githubusercontent.com" alt="java" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/df22f0f6e92a3c220bef13f20ead5619cb1e4162fa275feb64eb43d60b9fb0ff/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="javascript" width="40" height="40"/>
   <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
   <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
 </p>
